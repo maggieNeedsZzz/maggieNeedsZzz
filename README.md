@@ -40,5 +40,5 @@
 </p>
 
 <br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maggiealamaro&show_icons=true&locale=en&layout=compact" alt="maggiealamaro" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maggiealamaro&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="maggiealamaro" /></p>
 
